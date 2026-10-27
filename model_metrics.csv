@@ -1,0 +1,2 @@
+model,selected_threshold,accuracy,balanced_accuracy,precision,recall,f1,roc_auc,average_precision,false_positive_count,false_negative_count,true_negative_count,true_positive_count,flagged_fraction
+logistic_regression,0.78,0.8853503184713376,0.5849179262148545,0.2,0.23809523809523808,0.21739130434782608,0.7264748902974159,0.175970836102896,20,16,273,5,0.07961783439490445
